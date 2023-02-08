@@ -1,7 +1,7 @@
 📖 Interested in:
 - 🕸️ Web Backend development(Python🐍, PHP🅿️)
 - ⚙️ Software engineering(Python🐍, Java☕)
-- 🖥️ Low-level programming(Moslty C++)
+- 🖥️ Low-level programming(Mostly C++)
 - 🐧 Linux(kernel, basic libraries, GUI apps)
 
 Currently:
